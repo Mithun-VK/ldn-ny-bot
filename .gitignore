@@ -3,3 +3,24 @@
 *.csv
 bot_venv
 .env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Backtest outputs
+backtest/results/
+backtest/__pycache__/
+
+# Data files (too large for Git)
+data/
+
+# Virtual env
+bot_venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
