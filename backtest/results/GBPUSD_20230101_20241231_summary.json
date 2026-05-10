@@ -1,0 +1,33 @@
+{
+  "total_trades": 4,
+  "win_rate_pct": 25.0,
+  "total_wins": 1,
+  "total_losses": 3,
+  "gross_profit": 8898.91,
+  "gross_loss": 12836.21,
+  "net_profit": -3937.3,
+  "net_profit_pct": -3.94,
+  "profit_factor": 0.693,
+  "sharpe_ratio": -2.237,
+  "calmar_ratio": -0.317,
+  "max_drawdown_pct": 10.9,
+  "avg_win_usd": 8898.91,
+  "avg_loss_usd": -4278.74,
+  "avg_r_multiple": 839.721,
+  "avg_trade_duration_bars": 0.2,
+  "avg_mae_pips": 8.9,
+  "avg_mfe_pips": 16.3,
+  "initial_equity": 100000.0,
+  "final_equity": 96540.28,
+  "total_commission": 90.72,
+  "total_spread_cost": 1.296,
+  "monthly_returns_pct": {
+    "2022-11": -3.94
+  },
+  "best_month_pct": -3.94,
+  "worst_month_pct": -3.94,
+  "avg_monthly_pct": -3.94,
+  "symbol": "GBPUSD",
+  "start": "2023-01-01",
+  "end": "2024-12-31"
+}

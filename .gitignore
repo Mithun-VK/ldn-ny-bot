@@ -1,0 +1,5 @@
+/__pycache__
+*.log
+*.csv
+bot_venv
+.env
